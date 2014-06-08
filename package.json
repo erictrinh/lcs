@@ -1,0 +1,18 @@
+{
+  "name": "lcs",
+  "version": "0.1.0",
+  "description": "A Javascript implementation of the LCS algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "LCS"
+  ],
+  "author": "Eric Trinh <et.trinity@gmail.com> (http://erictrinh.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
