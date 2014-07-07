@@ -1,10 +1,10 @@
-# Lowest Common Subsequence
+# Longest Common Subsequence in JS
 
 This is an implementation of an algorithm to solve the [longest common subsequence problem](http://en.wikipedia.org/wiki/Longest_common_subsequence_problem) in Javascript.
 
 ## Install
 
-`npm install erictrinh/lcs`
+This is a node module, so install it with `npm install erictrinh/lcs`
 
 ## Usage
 
